@@ -20,6 +20,10 @@ original data sets, cleans, and merges them.
 
 A tidy data set in written out to `tidyData.txt`
 
+## Codebook
+
+See the CodeBook.md for information on the tidy data.
+
 
 # Problem Statement
 
