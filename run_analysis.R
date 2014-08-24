@@ -1,7 +1,6 @@
 printf <- function(...)print(sprintf(...))
 
 library(reshape2)
-# library(plyr)
 
 findFeatures <- function(all_features, grep_string) {
     grepl(grep_string, all_features$feature_name, fixed=TRUE)

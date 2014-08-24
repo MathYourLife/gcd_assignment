@@ -5,6 +5,20 @@
 make data
 ```
 
+## Run the analysis
+
+Once the `make data` command has downloaded and staged the data, all the
+analyses are run via the `run_analysis.R` script.
+
+```bash
+make tidy
+```
+
+This will execute the command `R -q -f run_analysis.R` which pulls it the
+original data sets, cleans, and merges them.
+
+A tidy data set in written out to `tidyData.txt`
+
 
 # Getting and Cleaning Data Course Project
 
