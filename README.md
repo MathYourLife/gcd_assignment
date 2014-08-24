@@ -1,3 +1,4 @@
+# Getting and Cleaning Data Course Project
 
 ## Downloading the data
 
@@ -20,7 +21,7 @@ original data sets, cleans, and merges them.
 A tidy data set in written out to `tidyData.txt`
 
 
-# Getting and Cleaning Data Course Project
+# Problem Statement
 
 The purpose of this project is to demonstrate your ability to collect, work
 with, and clean a data set. The goal is to prepare tidy data that can be used
