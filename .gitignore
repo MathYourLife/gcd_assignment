@@ -1,0 +1,8 @@
+README.txt
+UCI HAR Dataset/*
+UCIHARDataset.zip
+activity_labels.txt
+features.txt
+features_info.txt
+test/*
+train/*
